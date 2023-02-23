@@ -1,17 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T02:15:52.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Xoo7Or-1tSeMoXiLzzJj" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T02:21:52.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nTvmIIDb94cvkMkbxj83" version="20.8.23" type="github">
   <diagram name="Page-1" id="5svYjS9DnywBdC3rJc2G">
     <mxGraphModel dx="794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="shtXAtVKq3Qp_5mnsKef-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="190" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="shtXAtVKq3Qp_5mnsKef-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="285" y="100" width="280" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="shtXAtVKq3Qp_5mnsKef-3" value="EAST数据网关-系统整体用例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="shtXAtVKq3Qp_5mnsKef-1" target="shtXAtVKq3Qp_5mnsKef-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="shtXAtVKq3Qp_5mnsKef-1" target="shtXAtVKq3Qp_5mnsKef-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="shtXAtVKq3Qp_5mnsKef-1" target="shtXAtVKq3Qp_5mnsKef-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="shtXAtVKq3Qp_5mnsKef-1" target="shtXAtVKq3Qp_5mnsKef-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-3" value="EAST数据网关-系统整体用例概览" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="303" y="110" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-7" value="协议转换及适配" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-12" value="服务路由及治理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380.5" y="210" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-13" value="流量管理及容错" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="shtXAtVKq3Qp_5mnsKef-22" value="日志记录及监控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380.5" y="330" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
