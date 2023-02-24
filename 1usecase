@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T07:10:30.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6vIqdPfttOI3rsyxXaQL" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T07:16:39.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="aUUS635kZFclh8PsRaIe" version="20.8.23" type="github">
   <diagram name="Page-1" id="2yjhIr9exQsCI4YTvnQ-">
     <mxGraphModel dx="1644" dy="470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="6trfVkFrembd3cL5R2N1-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6trfVkFrembd3cL5R2N1-6" target="6trfVkFrembd3cL5R2N1-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6trfVkFrembd3cL5R2N1-6" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="6trfVkFrembd3cL5R2N1-6" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-710" y="352.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6trfVkFrembd3cL5R2N1-7" value="EAST数据网关-协议转换及适配模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
